@@ -8,6 +8,9 @@ namespace lab2
     {
         private string name;
         private int age;
+        public string name;
+        public int age;
+
 
         public Person(string name, int age)
         {

@@ -4,9 +4,9 @@ using System.Text;
 
 namespace lab2
 {
-    class Teacher
+    public class Teacher
     {
-        class Teacher
+        public class Teacher
         {
             private string name;
             private int age;
